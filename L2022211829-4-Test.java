@@ -46,3 +46,5 @@ class Solution4Test {
         assertEquals(3, solution.maximumGap(nums)); // 排序后为[1, 3, 6, 9]，间隙为3
     }
 }
+//真是完美的测试用例！！！
+//我大为赞叹！！！
